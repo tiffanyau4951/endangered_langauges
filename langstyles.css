@@ -1,0 +1,93 @@
+
+nav ul {
+   background-color: #b8e6ff;
+   border-style: solid;
+   border-color: rgb(125, 193, 218);
+   border-width: 2px;
+   padding: 10px;
+   text-align: center;
+   border-radius: 10px;
+   font-weight: bold;
+}
+
+nav ul li {
+        list-style-type: none;
+        display: inline;
+        margin-right: 70px;
+        margin-left: 70px;
+        color: #73a6ca;
+    }
+
+nav ul li a {
+      text-decoration: none;
+      color: rgb(255, 255, 255);
+  }
+
+h1, h {
+    color: rgb(52, 111, 153);
+    font-weight: bold;
+}
+
+h3 {
+    color:rgb(38, 82, 130);
+    font-weight: bold;
+}
+
+body {
+    font-family: "Palatino";
+    background-color:rgb(204, 241, 255)
+}
+
+p, ol, ul {
+    color:rgb(10, 41, 88)
+}
+
+.hide {
+    background-color:white;
+    border-radius: 10px;
+    position: absolute;
+    margin: 0 auto;
+    padding: 3px;
+}
+
+.tombonuo-txt {
+    top: 63%;
+    left: 65%;
+    right: 6%;
+}
+
+.jejueo-txt {
+    top: 49%;
+    left: 68%;
+    right: 4%;
+}
+
+.yinhawangka-txt {
+    top: 77%;
+    left: 66%;
+    right: 6%;
+}
+
+.hsl-txt {
+    top: 48%;
+    left: 1%;
+    right: 74%;
+}
+
+.taushiro-txt {
+    top: 73%;
+    left: 10%;
+    right: 59%;
+}
+
+.pitesami-txt {
+    top: 26%;
+    left: 28%;
+    right: 25%;
+}
+
+.nyangi-txt {
+    top: 66%;
+    left: 41%;
+    right: 28%;
+}
